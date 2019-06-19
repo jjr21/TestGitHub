@@ -7,3 +7,4 @@ Git status
 Git log
 Git branch. ** add name
 Git checkout - switch other branch 
+Git merge ** name
