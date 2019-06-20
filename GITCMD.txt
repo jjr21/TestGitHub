@@ -1,0 +1,12 @@
+git remote add origin https://github.com/jjr21/TestGitHub.git
+git push -u origin master
+Git clone 
+Git init
+Git --help
+Git status 
+Git log
+Git branch. ** add name
+Git checkout - switch other branch 
+Git merge ** name
+Git ignore ** .gitignore. (don't forget period)
+git rm -rf --cached . - remoce cache (Helpful to commit gitignore)
